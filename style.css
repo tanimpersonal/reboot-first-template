@@ -1,0 +1,41 @@
+body {
+  width: 90%;
+  margin: 0 auto;
+}
+.mission {
+  color: #d2691e;
+}
+.heading {
+  border-left: 3px solid tomato;
+  font-size: 30px;
+  font-weight: 900;
+}
+.margin-class {
+  margin-left: 10px;
+}
+.contact-button {
+  padding: 10px;
+  background-color: #d2691e;
+  border: none;
+  text-transform: uppercase;
+  border-radius: 5px;
+  /* padding-left: 10px; */
+  color: white;
+}
+.image-class {
+  width: 70%;
+}
+.image-class img {
+  width: 100%;
+}
+.header-section {
+  display: flex;
+  gap: 250px;
+  align-items: center;
+}
+.left {
+  width: 45%;
+}
+.right {
+  width: 45%;
+}
